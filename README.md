@@ -2,7 +2,7 @@
 
 Soy Full Stack Developer con experiencia en frontend y backend, apasionada por la programación. Me encanta combinar mi formación en diseño con el desarrollo web para crear soluciones eficientes y visualmente atractivas. Con un corazón curioso, estoy en constante aprendizaje y siempre abierta a nuevos proyectos que me permitan seguir creciendo y aportando valor.
 
-## 🌐 Redes
+## 🌐 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-o-46b126283/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessingogbogu@gmail.com)

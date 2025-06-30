@@ -2,10 +2,14 @@
 
 Soy Full Stack Developer con experiencia en frontend y backend, apasionada por la programación. Me encanta combinar mi formación en diseño con el desarrollo web para crear soluciones eficientes y visualmente atractivas. Con un corazón curioso, estoy en constante aprendizaje y siempre abierta a nuevos proyectos que me permitan seguir creciendo y aportando valor.
 
+---
+
 ## 🌐 Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-o-46b126283/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessingogbogu@gmail.com)
+
+---
 
 ## 🚀 Habilidades Técnicas
 
@@ -30,6 +34,8 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
+---
+
 ## 📊 Estadísticas de GitHub
 
 ![Bless's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blessing-09&show_icons=true&theme=rose_pine)
@@ -37,10 +43,12 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 ## 📊 Top Lenguajes
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessing-09&layout=compact&theme=rose_pine)
-
+---
 ## 🏆 Trofeos de GitHub
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Blessing-09&theme=tokyonight&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 
 

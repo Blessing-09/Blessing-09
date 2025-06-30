@@ -32,7 +32,7 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 
 ## 📊 Estadísticas de GitHub
 
-
+![Bless's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
 
 <!--

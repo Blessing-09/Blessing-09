@@ -50,6 +50,14 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 
 ---
 
+## 🔝 Repositorio Más Destacado
+
+[![Employee Expense Control](https://github-readme-stats.vercel.app/api/pin/?username=4GeeksAcademy&repo=Employee-Expense-Control&theme=tokyonight)](https://github.com/4GeeksAcademy/Employee-Expense-Control)
+
+📊 Este proyecto es una aplicación web para el control y gestión de gastos de empleados.  
+Permite registrar presupuestos y facturas vinculadas, facilitando el seguimiento financiero empresarial.  
+Está construido con React y otras tecnologías, aplicando buenas prácticas para manejar datos dinámicos y crear interfaces interactivas y funcionales.  
+Ideal para quienes buscan aprender a desarrollar aplicaciones web completas con gestión eficiente de la información.
 
 
 
@@ -58,7 +66,9 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 **Blessing-09/Blessing-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+---🏆 Certificaciones y Méritos
+## 🔝 Repositorio Más Contribuido
+🚀 Proyectos Destacados
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

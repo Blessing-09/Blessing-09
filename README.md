@@ -32,9 +32,9 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 
 ## 📊 Estadísticas de GitHub
 
-![Bless's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blessing-09&show_icons=true&theme=tokyonight)
+![Bless's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blessing-09&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessing-09&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blessing-09&layout=compact&theme=radical)
 
 
 

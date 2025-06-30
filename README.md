@@ -30,7 +30,7 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
-📊 Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 
 

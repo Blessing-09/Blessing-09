@@ -6,6 +6,8 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blessing-o-46b126283/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessingogbogu@gmail.com)
 
+## 🚀 Habilidades Técnicas
+
 
 <!--
 **Blessing-09/Blessing-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

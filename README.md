@@ -59,6 +59,7 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 #### 📸 Vista del Proyecto
 
 <img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2003.45.52.png?raw=true" alt="Screenshot 1" width="40%" style="margin: 10px;" />
+<img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2004.00.50.png?raw=true" alt="Screenshot 4" width="40%" style="margin: 10px;"/>
 <img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2003.44.43.png?raw=true" alt="Screenshot 2" width="40%" style="margin: 10px;"   />
 <img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2003.43.44.png?raw=true" alt="Screenshot 3" width="40%" style="margin: 10px;"  />
 

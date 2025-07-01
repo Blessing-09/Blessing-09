@@ -53,7 +53,7 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 
 <div align="center">
 
-## 🧾 Employee-Expense-Control web app
+## 🧾 Employee-Expense-Control {web app}
 
 
 #### 📸 Vista del Proyecto

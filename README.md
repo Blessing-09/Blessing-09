@@ -2,6 +2,14 @@
 
 Soy Full Stack Developer con experiencia en frontend y backend, apasionada por la programación. Me encanta combinar mi formación en diseño con el desarrollo web para crear soluciones eficientes y visualmente atractivas. Con un corazón curioso, estoy en constante aprendizaje y siempre abierta a nuevos proyectos que me permitan seguir creciendo y aportando valor.
 
+<div align="center">
+
+> 👩‍💼 **A wise woman once said:**
+> 
+> *🧠 A curious mind is teachable, and can do anything*
+
+</div>
+
 ---
 
 ## 🌐 Conectemos

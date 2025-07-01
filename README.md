@@ -73,6 +73,8 @@ Permite registrar presupuestos y facturas vinculadas, facilitando el seguimiento
 Está construido con React y otras tecnologías, aplicando buenas prácticas para manejar datos dinámicos y crear interfaces interactivas y funcionales.  
 Ideal para quienes buscan aprender a desarrollar aplicaciones web completas con gestión eficiente de la información.
 
+---
+
 
 
 

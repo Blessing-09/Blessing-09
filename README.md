@@ -49,9 +49,23 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 
 ---
 
-## 🔝 Repositorio Más Destacado
+## 🔝 Repositorio Destacado
 
-[![Employee Expense Control](https://github-readme-stats.vercel.app/api/pin/?username=4GeeksAcademy&repo=Employee-Expense-Control&theme=tokyonight)](https://github.com/4GeeksAcademy/Employee-Expense-Control)
+<div align="center">
+
+## 🧾 Employee Expense Control
+
+
+#### 📸 Vista del Proyecto
+
+<img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2003.45.52.png?raw=true" alt="Screenshot 1" width="40%" style="margin: 10px;" />
+<img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2003.44.43.png?raw=true" alt="Screenshot 2" width="40%" style="margin: 10px;"   />
+<img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2003.43.44.png?raw=true" alt="Screenshot 3" width="40%" style="margin: 10px;"  />
+
+🔗 [Ver repositorio en GitHub](https://github.com/4GeeksAcademy/Employee-Expense-Control)
+
+</div>
+
 
 📊 Este proyecto es una aplicación web para el control y gestión de gastos de empleados.  
 Permite registrar presupuestos y facturas vinculadas, facilitando el seguimiento financiero empresarial.  

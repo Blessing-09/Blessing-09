@@ -4,9 +4,9 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 
 <div align="center">
 
-> 👩‍💼 **A wise woman once said:**
+> 👩‍💼 **A wise woman once said (spoiler: it’s me):**
 > 
-> *🧠 A curious mind is teachable, and can do anything*
+> *🧠 A curious mind is teachable, and can do anything
 
 </div>
 

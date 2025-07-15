@@ -48,8 +48,8 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 
 🎓
 
-<a href="https://github.com/Blessing-09/Blessing-09/blob/main/CERTIFICATE%20FSD.pdf">
-  <img src="https://github.com/Blessing-09/Blessing-09/blob/main/Screenshot%202025-07-15%20at%2015.16.24.png?raw=true" alt="Certificado Full Stack" width="60%">
+<a href="https://github.com/Blessing-09/Blessing-09/blob/main/Screenshot%202025-07-15%20at%2019.51.59.png">
+  <img src="https://github.com/Blessing-09/Blessing-09/blob/main/Screenshot%202025-07-15%20at%2019.51.59.png?raw=true" alt="Certificado Adicional" width="45%" style="margin: 10px;"/>
 </a>
 
 </div>

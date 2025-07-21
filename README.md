@@ -86,7 +86,7 @@ Soy Full Stack Developer con experiencia en frontend y backend, apasionada por l
 <img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2003.44.43.png?raw=true" alt="Screenshot 2" width="40%" style="margin: 10px;"   />
 <img src="https://github.com/4GeeksAcademy/Employee-Expense-Control/blob/develop/Screenshot%202025-07-01%20at%2003.43.44.png?raw=true" alt="Screenshot 3" width="40%" style="margin: 10px;"  />
 
-🔗 [Ver repositorio en GitHub](https://github.com/4GeeksAcademy/Employee-Expense-Control)
+🔗 [Ver repositorio en GitHub](https://github.com/Blessing-09/Bless-Employee-Expense-Control)
 
 🔗 [Ver sitio en vivo](https://employee-expense-control.onrender.com/)
 
